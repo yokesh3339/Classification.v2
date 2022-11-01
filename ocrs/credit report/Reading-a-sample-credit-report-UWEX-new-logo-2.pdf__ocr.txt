@@ -1,0 +1,527 @@
+
+Reading a Sample Credit Report
+This sample report shows what kind of information might appear on your own credit report, also
+called a consumer disclosure statement, from the 3 major Credit Reporting Agencies (CRA).
+Your real credit reports will all look a little different. The information in this sample is made up.
+SAMPLE CREDIT REPORT
+Report Date: 5/10/2018
+PERSONAL CONSUMER INFORMATION
+SSN #: XXX-XX-6789 (Your SSN has been masked for your protection)
+DOB: 01/01/1988
+Names Reported:
+John Doe
+John Q. Doe
+Addresses Reported:
+123 Oak St. Anytown, WI. 11111
+111 Miller St. Hometown, WI. 33333
+333 1st St. Townville, MN. 22222
+EMPLOYMENT RECORDS
+Employer Name: Dairyland Company
+Date Reported: 09/2013
+Report Number: 123456
+Telephone Numbers Reported:
+555-555-5555
+555-123-4567
+Account Number: ***9514
+Type: Chapter 7 Bankruptcy
+Status: Filed
+Date Reported:
+08/02/2013
+06/06/2010
+03/15/2007
+Location: Anytown, WI
+Hire Date: 07/2013
+PUBLIC RECORDS INFORMATION
+This information was collected from public records sources by Sample Credit Report
+or a company we hired.
+REGIONAL FEDERAL COURT Docket # XYZ789
+111 Court Street, Capital City, WI 55555
+Filed as: Individual Account
+Liability: $35,000
+Exempt Amount: $5,000
+Asset Amount: $10,000
+Paid: $2,000
+Date Reported: 04/2013
+Closing Date: 07/2013
+Estimated month and year that this item will be removed: 04/2023
+The PERSONAL
+CONSUMER
+INFORMATION
+includes identification,
+as well as current and
+past addresses. This
+data comes from the
+information given to
+creditors.
+TIP: Make sure this
+information is correct.
+A wrong address or
+phone number could
+be a mistake - or a
+sign of identity theft.
+NOTE: A bankruptcy can stay on a credit report for 7-10 years from the date
+of filing depending on the type of bankruptcy.
+26
+W
+Extension
+PUBLIC RECORDS
+INFORMATION is
+data collected from
+court records and is
+viewed negatively by
+lenders. This section
+includes bankruptcies.
+Other public records
+for civil judgments and
+tax liens have recently
+been removed from
+credit reports, but
+could appear in other
+types of reports.
+Chapter 7 bankruptcy is reported for 10 years since all debt is
+discharged.
+UNIVERSITY OF WISCONSIN-MADISON
+Chapter 10 bankruptcy is reported for 7 years since some of the debt
+is paid back.
+ADVERSE ACCOUNTS
+Adverse information typically remains in your file for up to 7 years from the date of delinquency.
+American Hospital Collections Acct #: 10254688
+PO Box 999, Townsburg, WI 11111
+(555) 123-1234
+Date Placed for Collection: 07/01/2016
+Responsibility: Individual Account
+Type: COLLECTION AGENCY/ATTORNEY
+Original Amount: $302
+Original Creditor: REGIONAL HOSPITAL OP
+(Medical/Health Care)
+Remarks: >Paid Collection<
+Estimated month and year that this item will be removed: 1/2023
+Urgent Care Collections Acct #: 1234XYZ9
+999 Business Road, Hometown, MN 11111
+(555) 555-9999
+Date Placed for Collection: 02/15/2013
+Responsibility: Individual Account
+Type: COLLECTION AGENCY/ ATTORNEY
+Original Amount: $8023
+Original Creditor: EMERGENCY HOSPITAL
+(Medical/Health Care)
+All American Collections Acct #: 000999ZZ
+888 Industry Drive, Maintown, TX 00000
+(555) 555-6789
+Remarks: >Account included in Bankruptcy<
+Estimated month and year that this item will be removed: 1/2020
+Date Placed for Collection: 03/30/2013
+Responsibility: Individual Account
+Balance: $0
+Date Paid: 11/14/2016
+Pay Status: >Account paid in full;
+was a Collection<
+Date Updated: 02/01/2017
+Type: COLLECTION AGENCY/ ATTORNEY
+Original Amount: $1500
+Original Creditor: KWIK KASH LOANS
+Balance: $0
+Date Closed: 06/2013
+Pay Status: >Account included in
+Bankruptcy; was a Collection<
+Date Updated: 08/01/2013
+●
+Balance: $0
+Date Closed: 06/2013
+Pay Status: >Account included in
+Bankruptcy; was a Collection<
+Date Updated: 07/15/2013
+Remarks: >Account included in Bankruptcy<
+Estimated month and year that this item will be removed: 2/2020
+Credit of $150,000 or more, such as a mortgage.
+Life insurance with a face value of $150,000 or more.
+A job with an annual salary of $75,000 or more.
+NOTE: Even if debt does not appear on a credit report, the Consumer
+Reporting Agencies (CRA's) keep your older debt on file and can release the
+information when you apply for the following:
+26
+W
+Extension
+ADVERSE
+ACCOUNTS show lines
+of credit that have not
+been paid, have missed
+or late payments, were
+sent to a collection
+agency, or were
+"charged off" meaning
+that the company
+reported the debt as
+lost income and may
+have sold the debt to a
+collection agency. A
+history of late payments
+lowers your credit
+score, especially if it's
+more recent. Many
+lenders will not offer
+credit until overdue
+debts have been paid.
+UNIVERSITY OF WISCONSIN-MADISON
+TIP: Negative items
+can legally be removed
+from a credit report if
+it's been more than 7
+years from the date the
+debt first became
+overdue. If old items
+are listed, contact the
+credit bureau and ask
+these accounts to be
+taken off.
+NOTE: Even if debt
+does not show up on a
+credit report after 7
+years, a person may
+still owe the debt and
+be taken to court,
+depending on the State
+and type of debt.
+SATISFACTORY ACCOUNTS
+Automobile Finance Inc. Acct #: 70705606
+456 Drivers Lane, Big City, IL 66666
+(555) 555-9876
+2018 OK
+2017
+Date Opened: 03/22/2016
+Responsibility: Individual Account
+Account Type: Installment Account
+Type: Automobile
+Pay Status: Current; Paying as Agreed
+Remark: Open; one 30-day late payment
+Year Jan Feb Mar Apr May Jun
+OK OK
+OK
+OK OK OK OK OK
+OK
+2016
+Code
+Convenient Credit Card Acct #: XXXXX3333
+PO Box 2233, Great Prairie, ND 77777
+1-800-555-2233
+Date Opened: 11/02/2015
+Responsibility: Joint Account
+Account Type: Revolving Account
+Type: CHARGE ACCOUNT
+Pay Status: Current; Paying as Agreed
+Remarks: Open; never late
+2015
+OK-paid X=not 30/60/90= Blank=no data
+as agreed reported days late available
+×
+OK
+30
+Balance: $6,580
+Last Payment Made: 05/01/2018
+Payment Received: $240
+High Balance: $12,400
+Terms: $240 per month; paid Monthly
+for 60 months
+July Aug Sept Oct Nov Dec
+OK
+OK
+OK X OK OK
+OK OK
+Balance: $387
+Last Payment Made: 05/02/2018
+Payment Received: $48
+High Balance: $723
+Credit Limit: $1,000
+Terms: Paid Monthly
+Year Jan Feb Mar Apr May Jun July Aug Sept Oct
+2018 OK OK OK OK OK
+2017 OK OK OK OK
+OK
+OK
+OK
+OK OK OK OK OK
+OK OK OK OK OK OK OK OK
+2016 OK
+OK OK
+OK
+OK OK OK
+OK
+Nov Dec
+26
+W
+Extension
+The SATISFACTORY
+ACCOUNTS section
+shows credit
+accounts that are
+current or have been
+paid as agreed. The
+accounts listed are
+from information
+reported by lenders.
+Creditors choose
+whether to report
+account information
+to none, one, two, or
+all three of the major
+Credit Reporting
+Agencies and how
+often to report.
+Having satisfactory
+accounts that you pay
+the balance on
+regularly is good for
+your credit score.
+The 'Account Type'
+lists the kind of credit
+account.
+TIP: The 'Credit Utilization Ratio” (CUR) is how much of the balance is currently
+reported as being used in all your revolving accounts combined.
+UNIVERSITY OF WISCONSIN-MADISON
+• Installment
+Accounts like car
+or student loans
+where you borrow a
+set amount and
+then make monthly
+payments.
+• Revolving Accounts
+- usually credit
+cards that have a
+credit limit.
+In this sample report, there's only one revolving account. The credit card account
+above has a $387 balance divided by $1000 limit = 38% CUR.
+To raise your credit score, keep your CUR under 25%. Some credit scoring
+models say to keep this ratio under 5% for a better credit score.
+SATISFACTORY ACCOUNTS
+Student Loan Services Acct #: XXXXX-6299
+PO Box 67890, Centralville, MD 88888
+1-800-555-2999
+Date Opened: 08/22/2009
+Responsibility: Individual Account
+Account Type: Installment Account
+Type: STUDENT LOAN
+Pay Status: Current; Paying as Agreed
+Remarks: Open; never late
+Year Jan Feb Mar Apr May
+2018
+OK OK
+OK OK OK
+2017
+2016
+2015
+OK OK OK OK OK
+OK OK
+OK OK
+OK
+OK OK OK
+2014 OK OK OK
+Code
+OK
+Major Utilities #: 888-9000
+PO Box 1234, Hometown, WI 33333
+1-800-555-6666
+OK OK
+Date Opened: 06/01/2010
+Responsibility: Individual Account
+OK
+Jun
+OK
+OK-paid X=not
+as agreed reported
+OK
+OK
+Account Type: Open Account
+Type: UTILITY COMPANY
+Pay Status: Closed; Paid as Agreed
+Remarks: Account closed at consumer's request
+Year Jan Feb Mar
+Apr May Jun
+2013 OK OK OK
+OK
+2012 OK OK OK
+OK
+2011 OK OK OK OK
+2010
+Balance: $2,765
+Last Payment Made: 05/01/2018
+Payment Received: $115
+High Balance: $10,000
+Terms: $115 per month; paid
+Monthly for 120 months
+OK OK OK OK
+X
+July Aug Sept Oct Nov Dec
+OK
+OK
+OK OK
+30/60/90= Blank=no data
+days late available
+OK OK OK
+OK
+OK
+OK OK
+OK OK OK
+OK OK OK
+OK
+OK
+OK OK
+| |
+Balance: $0
+Last Payment Made: 07/01/2013
+Payment Received: $85
+High Balance: $155
+Terms: Paid monthly
+Date Closed: 07/01/2013
+OK
+July Aug Sept Oct
+OK
+OK
+OK
+OK OK OK
+OK OK OK
+OK OK
+26
+W
+Extension
+OK OK
+OK
+OK
+OK
+Nov
+UNIVERSITY OF WISCONSIN-MADISON
+OK
+OK
+Dec
+OK OK
+OK OK
+OK OK
+the
+SATISFACTORY
+ACCOUNTS section,
+future creditors,
+insurance companies,
+landlords, and some
+employers look for a
+history of on-time
+payments as a sign
+that a person is
+responsible and
+trustworthy. Positive
+information is usually
+listed for 10 years after
+an account is closed or
+paid off. If there is a
+history of late
+payments, creditors
+and insurers may still
+work with a person, but
+will charge higher
+rates.
+TIP: Applying for credit could lower your credit score a few points each time
+you contact a lender. If you're shopping for the best interest rate on a car
+loan, get a few quotes for loans within 14 days of each other. When shopping
+for a mortgage, get quotes within 30 days of each other. Most credit scores
+will only count these inquiries as one item, instead of many requests.
+TIP: Make sure
+accounts listed belong
+to you and that the
+information is correct.
+When you order your
+report, Credit Reporting
+Agencies (CRA's) are
+required to provide
+information about how
+to dispute an item or
+correct an error in your
+report. Keep a copy of
+any letters or emails
+you send and customer
+service representatives
+you speak with. The
+CRA usually has 30
+days to fix the error or
+show why it's correct.
+CREDIT INQUIRIES
+REGULAR INQUIRIES
+Regular inquiries are posted when someone accesses your credit information from
+Sample Credit Reports. These inquiries will remain on your credit file for up to 2 years.
+Convenient Credit Card
+PO Box 2233, Great Prairie, ND 77777
+1-800-555-2233
+A1 Insurance Coverage
+1234 Business Park Road, Townsquare, IL 66666
+(555) 555-1111
+Automobile Finance Inc.
+456 Drivers Lane, Big City, IL 66666
+(555) 555-9876
+Payless Insurance Company
+999 Circle Drive, Townville, IL 66666
+(555) 555-1111
+ChargeMore Credit Card
+444 Lake St., Lake City, ND 88888
+(555) 555-9652
+Requested on: 11/18/2017
+Inquiry Type: Individual
+ACCOUNT REVIEW INQUIRIES
+The companies listed below received your name, address, and other limited information
+in order to make an offer of credit or insurance. These inquiries are not seen by anyone
+but you and do not affect your score.
+Sample Credit Report Company
+Annual free consumer report provided
+Requested on: 10/01/2017
+Inquiry Type: Individual
+Requested on: 3/22/2016
+Inquiry Type: Individual
+Requested on: 03/01/2018
+Requested on: 12/1/2017
+Requested on: 10/10/2017
+PERSONAL CONSUMER STATEMENT
+I had a bad accident in 2013 and couldn't work. I filed for bankruptcy in 2013 because
+of medical bills.
+Office contact information
+The CREDIT
+INQUIRIES section
+includes information
+about when a credit
+report has been
+requested. There are
+two types of inquiries:
+NOTE: You have the right to add a short statement to your credit report to
+dispute a credit item or explain a situation. The statement does not affect your
+credit score and many lenders may never even read it.
+26
+W
+Extension
+REGULAR INQUIRIES
+are also known as
+HARD inquiries. When
+you apply for credit or
+buy insurance, for
+example, the lender
+reviews your credit
+report for a positive
+history and credit
+worthiness. These
+inquiries stay on a
+report for 2 years and
+can be seen by all
+creditors who look up
+your report. Hard
+inquiries can drop a
+credit score by 5-20
+points for many months.
+UNIVERSITY OF WISCONSIN-MADISON
+ACCOUNT REVIEW
+inquiries are also called
+SOFT or Promotional
+inquiries. Companies
+ask for certain parts of
+your credit information
+to see if you qualify for
+their services. These
+items are only seen by
+you and do not affect
+your credit score.
+Authored by Peggy Olive, Financial Capability Specialist, University of Wisconsin. Copyright © 2018 by the Board of Regents of the University of
+Wisconsin System doing business as the division of Cooperative Extension of the University of Wisconsin-Extension. All rights reserved.

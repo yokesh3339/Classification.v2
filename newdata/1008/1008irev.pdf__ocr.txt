@@ -1,0 +1,302 @@
+
+I. Borrower and Property Information
+Borrower Name
+Co-Borrower Name
+Property Address
+Property Type
+1 unit
+2- to 4-units
+Condominium
+PUD
+Co-op
+Manufactured Housing
+Single Wide
+II. Mortgage Information
+Loan Type
+Conventional
+OFHA
+☐VA
+USDA/RHS
+Note Information
+Original Loan Amount
+Initial P& Payment
+Initial Note Rate
+Loan Term (in months)
+Stable Monthly Income
+Base Income
+Other Income
+Positive Cash Flow
+(subject property)
+Total Income
+Qualifying Rate
+Note Rate
+Multiwide
+| III. Underwriting Information
+Underwriter's Name
+Bought-Down Rate
+Other
+Risk Assessment
+Manual Underwriting
+AUS
+Seller No.
+$
+$
+Qualifying Ratios
+Primary Housing Expense/Incame
+Total Obligations/Income
+Debt-to-Housing Gap Ratio (Freddie)
+Seller Loan No.
+Freddie Mac Form 1077
+DARM (type)
+$
+Amortization Type
+Fixed-Rate Monthly Payments
+☐Fixed-Rate Biweekly Payments
+Balloon
+$
+Project Classification
+Freddie Mac
+$ 0.00
+Project Name
+Other (specify)
+% Above Note Rate
+% Below Note Rate
+Streamlined Review
+Established Project
+New Project
+Detached Project
+2- to 4-unit Project
+Reciprocal Review
+DU LP ☐ Other
+AUS Recommendation
+DU Case ID/LP AUS Key#
+LP Doc Class (Freddie)
+Representative Credit/Indicator Score
+Underwriter Comments
+06/09
+Borrower
+Uniform Underwriting and Transmittal Summary
+IV. Seller, Contract, and Contact Information
+Seller Name
+Seller Address
+%
+Fannie Mae
+OP Limited Review New Detached
+□QLimited Review Established
+☐RExpedited Review New
+☐S Expedited Review Established
+☐T Fannie Mae Review
+OUFHA-approved
+V Refi Plus ™
+Mortgage Originator
+Seller
+Broker
+Appraiser's Name/License #
+$
+$
+$
+$ 0.00
+11
+Investor Loan No.
+Co-Borrower
+Correspondent
+Broker/Correspondent Name and Company Name:
+%
+%
+%
+%
+%
+%
+%
+%
+LTV
+CLTV/TLTV
+HCLTV/HTLTV
+Loan Purpose
+Purchase
+Cash-Out Refinance
+Loan-to-Value Ratios
+Escrow (T&I)
+Yes No
+□E PUD
+OF PUD
+TPUD
+$ 0.00
+$ 0.00
+$ 0.00
+$ 0.00
+Limited Cash-Out Refinance (Fannie)
+No Cash-Out Refinance (Freddie)
+Home Improvement
+Construction to Permanent
+Level of Property Review
+Exterior/Interior
+Exterior Only
+No Appraisal
+Form Number:
+CPM Project ID# (if any)
+Page 1 of 1
+Buydown
+Yes
+No
+Terms
+1 Co-op
+2 Co-op
+☐T Co-op
+Total
+%
+%
+Yes
+Community Lending/Affordable Housing Initiative
+Home Buyers/Homeownership Education Certificate in file
+Contact
+Signature
+Contact Name
+Contact Title
+Contact Phone Number
+SSN
+SSN
+Occupancy Status
+Primary Residence
+Second Hame
+Investment Property
+Additional Property Information
+Number of Units
+Sales Price
+Appraised Value
+Property Rights
+Fee Simple
+Leasehold
+Lien Position
+First Mortgage
+Amount of Subordinate Financing
+$
+(If HELOC, include balance and credit limit)
+Second Mortgage
+If Second Mortgage
+Owner of First Mortgage
+Fannie Mae
+Appraisal Company Name
+Present Housing Payment:
+Proposed Monthly Payments
+Borrower's Primary Residence
+First Mortgage P&I
+Seller/Other
+Original Loan Amount of First Mortgage
+$
+Second Mortgage P&I
+Hazard Insurance
+Taxes
+Mortgage Insurance
+HOA Fees
+Lease/Ground Rent
+Other
+Total Primary Housing Expense
+Other Obligations
+Negative Cash Flow
+(subject property)
+All Other Monthly Payments
+Total All Morthly Payments
+$
+$
+Borrower Funds to Close
+Required
+Verified Assets
+Source of Funds
+No. of Manths Reserves
+Interested Party Contributions
+No
+Yes No
+Freddie Mac
+$
+$
+$
+$
+$
+$
+$
+$ 0.00
+$
+$
+$ 0.00
+$
+ext
+Fannie Mae Form 1008
+06/09
+Uniform Underwriting and Transmittal Summary
+Lenders use this form to summarize key information utilized in the comprehensive risk assessment of the mortgage loan and the final underwriting decision
+-- such as loan purpose, property type, proposed monthly payments, and debt ratio -- for manually-processed applications related to conventional first and
+second mortgages. Lenders processing applications through Desktop Underwriter® are not required to use this form.
+Copies
+Original, plus one.
+Printing Instructions
+This form may be printed on legal or letter size paper, using portrait format, as long as the content is not changed materially. When printing this form, you
+must use the "shrink to fit" option in the Adobe Acrobat print dialogue box.
+Instructions
+The lender should retain this form in its mortgage file. If we select a specific mortgage for an underwriting performance review, a copy of this form should be
+used to transmit the documentation we request.
+This one-page form consists of four sections. All sections should be completed. Each section of the form is discussed below, with instructions provided for
+certain fields in instances in which they may be needed for clarity or to emphasize the need for proper completion of a specific field.
+Instructions
+Section I. Borrower and Property Information
+This section includes basic information related to the borrower and the property. Most fields are self-explanatory. In addition, the following special
+instructions apply:
+Field
+Property Type
+Project Classification
+Additional Property
+Information
+Section II. Mortgage Information
+This section includes information related to the mortgage. When subordinate financing behind a first mortgage is a home equity line of credit (HELOC),
+enter both the amount drawn and the credit limit for the loan. The amount drawn must be included in the CLTV/TLTV calculation (Section III) and the credit
+limit must be included in the HCLTV/HTLTV calculation (also in Section III).
+Field
+Stable Monthly Income
+Special Instructions
+For "Property Type," check all that apply. For example, when the subject property is a detached condominium unit, check both
+"1-unit" and "Condominium."
+Section III. Underwriting Information
+This section includes additional information used in underwriting the mortgage. Most fields are self-explanatory. However, additional information is
+presented below about specific fields that may help the lender to better understand what should be entered in the fields.
+Qualifying Ratio
+Check the appropriate project acceptance review type based on the descriptions provided in the Selling Guide (as amended by
+Announcements 07-18, 08-34, and 09-21).
+When "Property Type" is shown as "2- to 4-units," indicate the actual number of units in the section, "Additional Property
+Information."
+Special Instructions
+The entry for "Positive Cash Flow (subject property)" is either the net cash flow for an investment property or the monthly
+operating income for a two- to four-unit property in which the applicant occupies one of the units, if the value is positive.
+The housing expense itemization relates only to the "Borrower's Primary Residence," regardless if it is the subject property
+of this transaction. When the subject property is a two- to four-unit property in which the borrower will occupy one unit as a
+primary residence (sometimes referred to as principal residence), enter the payment in these fields. When the subject
+Proposed Monthly Payments property is an investment property or second home, the payment shown in these fields should relate to the borrower's
+primary residence and not for the subject property in this transaction. The entry for "Negative Cash Flow (subject property)"
+under "Other Obligations" is either the net cash flow for an investment property or the monthly operating income for a two- to
+four-unit property in which the applicant occupies one of the units, if the value is negative.
+Instructions Page 1 of 2
+The "Primary Housing Expense/Income" ratio is not required. However, if included, it should be determined by dividing the
+"Total Primary Housing Expense" derived under "Proposed Monthly Payments" by the "Total Income" for all applicants. To
+determine the "Total Obligations/Income" ratio, divide the "Total All Monthly Payments" derived under "Proposed Monthly
+Payments" by the "Total Income" for all applicants, as developed under "Stable Monthly Income."
+Field
+Qualifying Rate
+Level of Property Review
+Instructions, Continued
+Indicate the level of fieldwork performed to support the sales price or market value (for example, the appraiser inspected
+both the interior and exterior of the property, the exterior only, or an appraisal was not required in the particular transaction).
+Indicate the number of the appraisal form used based on the type of inspection and/or the type of property being appraised.
+Section IV. Seller, Contract, and Contact Information
+Special Instructions
+Indicate the interest rate that was used to calculate the monthly payment at which the borrower was qualified for the
+mortgage. When the payment is based on the actual interest rate of the mortgage, check the "Note Rate" box. When we
+require the borrower for an adjustable-rate mortgage to be qualified at the maximum interest rate that could be in effect at
+the end of the first year, check the box that shows " % Above Note Rate
+%" and enter the annual interest rate
+cap in the first blank and the resulting interest rate in the second blank. When a mortgage is subject to a temporary interest
+rate buydown plan and we permit the borrower to be qualified at the bought down rate, check that box and enter the
+applicable "Bought-Down Rate." If the fully indexed rate was used for qualifying the borrower, the "Other" box should be
+checked.
+Instructions Page 2 of 2
+This section includes basic information related to the mortgage seller, the contact person for a specific mortgage loan, and the commitment under which the
+mortgage is delivered. Although a specific space is not provided in this section for the contact's e-mail address, the seller may add it in the "Contact Phone
+Number" field.

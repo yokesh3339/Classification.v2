@@ -1,0 +1,348 @@
+
+ELEVATION CERTIFICATE
+N ATIONAL
+AND
+INSTRUCTIONS
+F LOOD
+2019 EDITION
+I NSURANCE
+P ROGRAM
+
+U.S. DEPARTMENT OF HOMELAND SECURITY Federal Emergency Management Agency National Flood Insurance Program ELEVATION CERTIFICATE AND INSTRUCTIONS Paperwork Reduction Act Notice Public reporting burden for this data collection is estimated to average 3.75 hours per response. The burden estimate includes the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and submitting this form. You are not required to respond to this collection of information unless a valid OMB control number is displayed on this form. Send comments regarding the accuracy of the burden estimate and any suggestions for reducing the burden to: Information Collections Management, Department of Homeland Security, Federal Emergency Management Agency, 500 C Street SW, Washington, DC 20742, Paperwork Reduction Project (1660-0008). NOTE: Do not send your completed form to this address. Privacy Act Statement
+Authority: Title 44 CFR § 61.7 and 61.8.
+Principal Purpose(s): This information is being collected for the primary purpose of estimating the risk premium rates necessary to provide flood insurance for new or substantially improved structures in designated Special Flood Hazard Areas.
+Routine Use(s): The information on this form may be disclosed as generally permitted under 5 U.S.C. § 552a(b) of the Privacy Act of 1974, as amended. This includes using this information as necessary and authorized by the routine uses published in DHS/ FEMA-003 – National Flood Insurance Program Files System or Records Notice 73 Fed. Reg. 77747 (December 19, 2008); DHS/ FEMA/NFIP/LOMA-1 – National Flood Insurance Program (NFIP) Letter of Map Amendment (LOMA) System of Records Notice 71 Fed. Reg. 7990 (February 15, 2006); and upon written request, written consent, by agreement, or as required by law.
+Disclosure: The disclosure of information on this form is voluntary; however, failure to provide the information requested may result in the inability to obtain flood insurance through the National Flood Insurance Program or the applicant may be subject to higher premium rates for flood insurance. Information will only be released as permitted by law.
+OMB No. 1660-0008 Expiration Date: November 30, 2022
+Purpose of the Elevation Certificate The Elevation Certificate is an important administrative tool of the National Flood Insurance Program (NFIP). It is to be used to provide elevation information necessary to ensure compliance with community floodplain management ordinances, to determine the proper insurance premium rate, and to support a request for a Letter of Map Amendment (LOMA) or Letter of Map Revision based on fill (LOMR-F). The Elevation Certificate is required in order to properly rate Post-FIRM buildings, which are buildings constructed after publication of the Flood Insurance Rate Map (FIRM), located in flood insurance Zones A1–A30, AE, AH, A (with BFE), VE, V1–V30, V (with BFE), AR, AR/A, AR/AE, AR/A1–A30, AR/AH, and AR/AO. The Elevation Certificate is not required for Pre-FIRM buildings unless the building is being rated under the optional Post-FIRM flood insurance rules. As part of the agreement for making flood insurance available in a community, the NFIP requires the community to adopt floodplain management regulations that specify minimum requirements for reducing flood losses. One such requirement is for the community to obtain the elevation of the lowest floor (including basement) of all new and substantially improved buildings, and maintain a record of such information. The Elevation Certificate provides a way for a community to document compliance with the community's floodplain management ordinance. Use of this certificate does not provide a waiver of the flood insurance purchase requirement. Only a LOMA or LOMR-F from the Federal Emergency Management Agency (FEMA) can amend the FIRM and remove the Federal mandate for a lending institution to require the purchase of flood insurance. However, the lending institution has the option of requiring flood insurance even if a LOMA/LOMR-F has been issued by FEMA. The Elevation Certificate may be used to support a LOMA or LOMR-F request. Lowest floor and lowest adjacent grade elevations certified by a surveyor or engineer will be required if the certificate is used to support a LOMA or LOMR-F request. A LOMA or LOMR-F request must be submitted with either a completed FEMA MT-EZ or MT-1 package, whichever is appropriate. This certificate is used only to certify building elevations. A separate certificate is required for floodproofing. Under the NFIP, non- residential buildings can be floodproofed up to or above the Base Flood Elevation (BFE). A floodproofed building is a building that has been designed and constructed to be watertight (substantially impermeable to floodwaters) below the BFE. Floodproofing of residential buildings is not permitted under the NFIP unless FEMA has granted the community an exception for residential floodproofed basements. The community must adopt standards for design and construction of floodproofed basements before FEMA will grant a basement exception. For both floodproofed non-residential buildings and residential floodproofed basements in communities that have been granted an exception by FEMA, a floodproofing certificate is required. Additional guidance can be found in FEMA Publication 467-1, Floodplain Management Bulletin: Elevation Certificate, available on FEMA's website at https://www.fema.gov/media-library/assets/documents/3539?id=1727.
+FEMA Form 086-0-33 (12/19) Replaces all previous editions. F-053
+
+U.S. DEPARTMENT OF HOMELAND SECURITY
+Federal Emergency Management Agency
+National Flood Insurance Program
+A1. Building Owner's Name
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+SECTION A- PROPERTY INFORMATION
+FOR INSURANCE COMPANY USE
+Policy Number:
+A2. Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and
+Box No.
+City
+ELEVATION CERTIFICATE
+Important: Follow the instructions on pages 1-9.
+A3. Property Description (Lot and Block Numbers, Tax Parcel Number, Legal Description, etc.)
+A4. Building Use (e.g., Residential, Non-Residential, Addition, Accessory, etc.)
+A5. Latitude/Longitude: Lat.
+Long.
+B4. Map/Panel
+Number
+B1. NFIP Community Name & Community Number
+A6. Attach at least 2 photographs of the building if the Certificate is being used to obtain flood insurance.
+A7. Building Diagram Number
+A8. For a building with a crawlspace or enclosure(s):
+a) Square footage of crawlspace or enclosure(s)
+B5. Suffix B6. FIRM Index
+Date
+State
+No
+sq ft
+b) Number of permanent flood openings in the crawlspace or enclosure(s) within 1.0 foot above adjacent grade
+c) Total net area of flood openings in A8.b
+sq in
+Yes
+d) Engineered flood openings?
+A9. For a building with an attached garage:
+a) Square footage of attached garage
+sq ft
+b) Number of permanent flood openings in the attached garage within 1.0 foot above adjacent grade
+c) Total net area of flood openings in A9.b
+sq in
+d) Engineered flood openings?
+Yes
+No
+FEMA Form 086-0-33 (12/19)
+B7. FIRM Panel
+Effective/
+Revised Date
+B11. Indicate elevation datum used for BFE in Item B9:
+SECTION B - FLOOD INSURANCE RATE MAP (FIRM) INFORMATION
+B2. County Name
+OMB No. 1660-0008
+Expiration Date: November 30, 2022
+CBRS
+NGVD 1929
+Company NAIC Number:
+Horizontal Datum:
+B8. Flood
+Zone(s)
+ZIP Code
+B10. Indicate the source of the Base Flood Elevation (BFE) data or base flood depth entered in Item B9:
+FIS Profile FIRM Community Determined
+Other/Source:
+NAVD 1988
+Replaces all previous editions.
+NAD 1927
+NAD 1983
+B9. Base Flood Elevation(s)
+B3. State
+(Zone AO, use Base Flood Depth)
+Other/Source:
+B12. Is the building located in a Coastal Barrier Resources System (CBRS) area or Otherwise Protected Area (OPA)? Yes
+Designation Date:
+OPA
+No
+Form Page 1 of 6
+ELEVATION CERTIFICATE
+IMPORTANT: In these spaces, copy the corresponding information from Section A.
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.
+City
+Title
+SECTION C
+BUILDING ELEVATION INFORMATION (SURVEY REQUIRED)
+Building Under Construction*
+C1. Building elevations are based on:
+Construction Drawings*
+*A new Elevation Certificate will be required when construction of the building is complete.
+C2. Elevations - Zones A1-A30, AE, AH, A (with BFE), VE, V1-V30, V (with BFE), AR, AR/A, AR/AE, AR/A1-A30, AR/AH, AR/AO.
+Complete Items C2.a-h below according to the building diagram specified in Item A7. In Puerto Rico only, enter meters.
+Benchmark Utilized:
+Vertical Datum:
+Indicate elevation datum used for the elevations in items a) through h) below.
+NAVD 1988
+Other/Source:
+NGVD 1929
+Datum used for building elevations must be the same as that used for the BFE.
+City
+State
+a) Top of bottom floor (including basement, crawlspace, or enclosure floor)
+b) Top of the next higher floor
+c) Bottom of the lowest horizontal structural member (V Zones only)
+d) Attached garage (top of slab)
+Company Name
+e) Lowest elevation of machinery or equipment servicing the building
+(Describe type of equipment and location in Comments)
+f) Lowest adjacent (finished) grade next to building (LAG)
+g) Highest adjacent (finished) grade next to building (HAG)
+h) Lowest adjacent grade at lowest elevation of deck or stairs, including
+structural support
+Address
+Signature
+ZIP Code
+FEMA Form 086-0-33 (12/19)
+License Number
+State
+Date
+SECTION D-SURVEYOR, ENGINEER, OR ARCHITECT CERTIFICATION
+This certification is to be signed and sealed by a land surveyor, engineer, or architect authorized by law to certify elevation information.
+I certify that the information on this Certificate represents my best efforts to interpret the data available. I understand that any false
+statement may be punishable by fine or imprisonment under 18 U.S. Code, Section 1001.
+Were latitude and longitude in Section A provided by a licensed land surveyor? Yes
+Certifier's Name
+No
+ZIP Code
+OMB No. 1660-0008
+Expiration Date: November 30, 2022
+FOR INSURANCE COMPANY USE
+Policy Number:
+Telephone
+Company NAIC Number
+Replaces all previous editions.
+Finished Construction
+Check the measurement used.
+feet
+feet
+Ext.
+feet
+feet
+feet
+feet
+feet
+feet
+meters
+meters
+meters
+meters
+meters
+meters
+meters
+meters
+Check here if attachments.
+Copy all pages of this Elevation Certificate and all attachments for (1) community official, (2) insurance agent/company, and (3) building owner.
+Comments (including type of equipment and location, per C2(e), if applicable)
+Place
+Seal
+Here
+Form Page 2 of 6
+ELEVATION CERTIFICATE
+IMPORTANT: In these spaces, copy the corresponding information from Section A.
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.
+City
+a) Top of bottom floor (including basement,
+crawlspace, or enclosure) is
+b) Top of bottom floor (including basement,
+crawlspace, or enclosure) is
+For Zones AO and A (without BFE), complete Items E1-E5. If the Certificate is intended to support a LOMA or LOMR-F request,
+complete Sections A, B,and C. For Items E1-E4, use natural grade, if available. Check the measurement used. In Puerto Rico only,
+enter meters.
+E4. Top of platform of machinery and/or equipment
+servicing the building is
+State
+E1. Provide elevation information for the following and check the appropriate boxes to show whether the elevation is above or below
+the highest adjacent grade (HAG) and the lowest adjacent grade (LAG).
+SECTION E-BUILDING ELEVATION INFORMATION (SURVEY NOT REQUIRED)
+FOR ZONE AO AND ZONE A (WITHOUT BFE)
+Address
+Signature
+ZIP Code
+Comments
+FEMA Form 086-0-33 (12/19)
+OMB No. 1660-0008
+Expiration Date: November 30, 2022
+FOR INSURANCE COMPANY USE
+Policy Number:
+feet
+meters
+above or
+below the LAG.
+E2. For Building Diagrams 6-9 with permanent flood openings provided in Section A Items 8 and/or 9 (see pages 1-2 of Instructions),
+the next higher floor (elevation C2.b in
+feet
+below the HAG.
+the diagrams) of the building is
+above or
+above or
+E3. Attached garage (top of slab) is
+feet
+below the HAG.
+City
+Company NAIC Number
+feet
+Date
+Replaces all previous editions.
+feet
+above or
+below the HAG.
+E5. Zone AO only: If no flood depth number is available, is the top of the bottom floor elevated in accordance with the community's
+floodplain management ordinance? Yes No Unknown. The local official must certify this information in Section G.
+meters
+SECTION F - PROPERTY OWNER (OR OWNER'S REPRESENTATIVE) CERTIFICATION
+The property owner or owner's authorized representative who completes Sections A, B, and E for Zone A (without a FEMA-issued or
+community-issued BFE) or Zone AO must sign here. The statements in Sections A, B, and E are correct to the best of my knowledge.
+Property Owner or Owner's Authorized Representative's Name
+meters
+meters
+above or
+meters
+below the HAG.
+State
+Telephone
+ZIP Code
+Check here if attachments.
+Form Page 3 of 6
+ELEVATION CERTIFICATE
+IMPORTANT: In these spaces, copy the corresponding information from Section A.
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.
+City
+G2.
+G3.
+SECTION G COMMUNITY INFORMATION (OPTIONAL)
+The local official who is authorized by law or ordinance to administer the community's floodplain management ordinance can complete
+Sections A, B, C (or E), and G of this Elevation Certificate. Complete the applicable item(s) and sign below. Check the measurement
+used in Items G8-G10. In Puerto Rico only, enter meters.
+G1.
+G4. Permit Number
+State
+The information in Section C was taken from other documentation that has been signed and sealed by a licensed surveyor,
+engineer, or architect who is authorized by law to certify elevation information. (Indicate the source and date of the elevation
+data in the Comments area below.)
+G7. This permit has been issued for:
+G8. Elevation of as-built lowest floor (including basement)
+of the building:
+Local Official's Name
+Signature
+A community official completed Section E for a building located in Zone A (without a FEMA-issued or community-issued BFE)
+or Zone AO.
+The following information (Items G4-G10) is provided for community floodplain management purposes.
+Community Name
+G9. BFE or (in Zone AO) depth of flooding at the building site:
+G10. Community's design flood elevation:
+G5. Date Permit Issued
+FEMA Form 086-0-33 (12/19)
+New Construction
+ZIP Code
+Title
+Substantial Improvement
+Telephone
+Date
+Comments (including type of equipment and location, per C2(e), if applicable)
+Replaces all previous editions.
+OMB No. 1660-0008
+Expiration Date: November 30, 2022
+FOR INSURANCE COMPANY USE
+Policy Number:
+Company NAIC Number
+G6. Date Certificate of
+feet
+Compliance/Occupancy Issued
+feet
+feet
+meters Datum
+meters Datum
+meters Datum
+Check here if attachments.
+Form Page 4 of 6
+ELEVATION CERTIFICATE
+IMPORTANT: In these spaces, copy the corresponding information from Section A.
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.
+City
+BUILDING PHOTOGRAPHS
+See Instructions for Item A6.
+Photo One Caption
+Photo Two Caption
+FEMA Form 086-0-33 (12/19)
+State
+If using the Elevation Certificate to obtain NFIP flood insurance, affix at least 2 building photographs below according to the
+instructions for Item A6. Identify all photographs with date taken; "Front View" and "Rear View"; and, if required, "Right Side View" and
+"Left Side View." When applicable, photographs must show the foundation with representative examples of the flood openings or
+vents, as indicated in Section A8. If submitting more photographs than will fit on this page, use the Continuation Page.
+Photo One
+Photo One
+Photo Two
+ZIP Code
+Photo Two
+OMB No. 1660-0008
+Expiration Date: November 30, 2022
+FOR INSURANCE COMPANY USE
+Policy Number:
+Replaces all previous editions.
+Company NAIC Number
+Clear Photo One
+Clear Photo Two
+Form Page 5 of 6
+ELEVATION CERTIFICATE
+IMPORTANT: In these spaces, copy the corresponding information from Section A.
+Building Street Address (including Apt., Unit, Suite, and/or Bldg. No.) or P.O. Route and Box No.
+City
+BUILDING PHOTOGRAPHS
+Continuation Page
+Photo Three Caption
+Photo Four Caption
+FEMA Form 086-0-33 (12/19)
+State
+If submitting more photographs than will fit on the preceding page, affix the additional photographs below. Identify all photographs
+with: date taken; "Front View" and "Rear View"; and, if required, "Right Side View" and "Left Side View." When applicable,
+photographs must show the foundatio with representative examples the openings or vents, as indicated in Section A8.
+Photo Three
+Photo Three
+ZIP Code
+Photo Four
+Photo Four
+OMB No. 1660-0008
+Expiration Date: November 30, 2022
+FOR INSURANCE COMPANY USE
+Policy Number:
+Replaces all previous editions.
+Company NAIC Number
+Clear Photo Three
+Clear Photo Four
+Form Page 6 of 6
